@@ -1,1 +1,2 @@
 D:\Cal\Cal\bin\Debug\Cal.exe.config
+D:\Demo1\Caculatior\Cal\bin\Debug\Cal.exe.config
