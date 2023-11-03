@@ -24,10 +24,13 @@ namespace Cal
 
         private void button1_Click(object sender, EventArgs e)
         {
-            double a = double.Parse(textBox1.Text);
-           double b = double.Parse(textBox2.Text);
-            double c = a + b;
-            textBox3.Text = c.ToString();
+            if (textBox1.Text != null && textBox2.Text != null)
+            {
+                double a = double.Parse(textBox1.Text);
+                double b = double.Parse(textBox2.Text);
+                double c = a + b;
+                textBox3.Text = c.ToString();
+            }
         }
 
         private void button2_Click(object sender, EventArgs e)
