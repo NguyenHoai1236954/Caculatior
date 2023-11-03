@@ -1,3 +1,11 @@
 D:\Cal\Cal\bin\Debug\Cal.exe.config
 D:\Demo1\Caculatior\Cal\bin\Debug\Cal.exe.config
 D:\haha\Caculatior\Cal\bin\Debug\Cal.exe.config
+D:\haha\Caculatior\Cal\bin\Debug\Cal.exe
+D:\haha\Caculatior\Cal\bin\Debug\Cal.pdb
+D:\haha\Caculatior\Cal\obj\Debug\Cal.csprojResolveAssemblyReference.cache
+D:\haha\Caculatior\Cal\obj\Debug\Cal.Form1.resources
+D:\haha\Caculatior\Cal\obj\Debug\Cal.Properties.Resources.resources
+D:\haha\Caculatior\Cal\obj\Debug\Cal.csproj.GenerateResource.Cache
+D:\haha\Caculatior\Cal\obj\Debug\Cal.exe
+D:\haha\Caculatior\Cal\obj\Debug\Cal.pdb
