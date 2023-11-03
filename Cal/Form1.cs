@@ -25,6 +25,7 @@ namespace Cal
         private void button1_Click(object sender, EventArgs e)
         {
             if (textBox1.Text != null && textBox2.Text != null)
+
             {
                 double a = double.Parse(textBox1.Text);
                 double b = double.Parse(textBox2.Text);
@@ -52,5 +53,6 @@ namespace Cal
                 textBox3.Text = c.ToString();
             }
         }
+
     }
 }
